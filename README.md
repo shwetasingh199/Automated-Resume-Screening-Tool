@@ -276,12 +276,13 @@ The system uses:
 <img width="1501" height="812" alt="Screenshot 2026-05-17 004402" src="https://github.com/user-attachments/assets/42c2327c-c9a6-4a00-abe9-a7755f8ccfc1" />
 <img width="1478" height="742" alt="Screenshot 2026-05-17 004432" src="https://github.com/user-attachments/assets/e7d05f13-a10e-472d-aa41-33ccf63967ea" />
 <img width="1523" height="713" alt="Screenshot 2026-05-17 004420" src="https://github.com/user-attachments/assets/3dda4155-9483-4984-8616-e327233e64b3" />
+<img width="1476" height="832" alt="Screenshot 2026-05-17 004443" src="https://github.com/user-attachments/assets/0db5f8f9-38b0-4f5f-b3eb-631f085c3e26" />
 
 ## When resume is less than ATS score:
 
+<img width="1908" height="652" alt="Screenshot 2026-05-17 004515" src="https://github.com/user-attachments/assets/08c52c20-5882-4f87-ba0d-92df85e2b4f8" />
 <img width="1442" height="707" alt="Screenshot 2026-05-17 004551" src="https://github.com/user-attachments/assets/bf50c6ed-8f6b-4ca2-bad9-8f6a3eebd612" />
 <img width="1517" height="608" alt="Screenshot 2026-05-17 004541" src="https://github.com/user-attachments/assets/6abc8ca6-765d-4787-92f8-f16502ce09ae" />
-<img width="1908" height="652" alt="Screenshot 2026-05-17 004515" src="https://github.com/user-attachments/assets/2061f63a-84d7-4982-9f8a-5ce161a7ed9a" />
 <img width="1901" height="833" alt="Screenshot 2026-05-17 004604" src="https://github.com/user-attachments/assets/cd5691fc-37df-4a62-acea-b52807525db8" />
 
 ---

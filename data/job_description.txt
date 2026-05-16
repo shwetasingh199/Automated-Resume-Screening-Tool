@@ -1,0 +1,18 @@
+We are hiring a Python Data Analyst.
+
+Required Skills:
+Python
+SQL
+Pandas
+NumPy
+Machine Learning
+Data Visualization
+Excel
+
+Preferred Skills:
+Power BI
+Scikit-learn
+Communication Skills
+
+Experience:
+2+ years preferred.

@@ -1,0 +1,8 @@
+Python
+SQL
+Pandas
+NumPy
+Machine Learning
+Excel
+Power BI
+Scikit-learn

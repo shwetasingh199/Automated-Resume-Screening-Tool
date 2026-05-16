@@ -270,10 +270,9 @@ The system uses:
 # 📸 Screenshots
 
 ## Dashboard
-## When resume is above ATS score:
-
 <img width="1895" height="866" alt="Screenshot 2026-05-17 004339" src="https://github.com/user-attachments/assets/270cb9df-052f-4f99-860e-b0476b8393be" />
-<img width="1476" height="832" alt="Screenshot 2026-05-17 004443" src="https://github.com/user-attachments/assets/4a68f40c-1c31-4dc1-a655-3a23f604fe24" />
+
+## When resume is above ATS score:
 <img width="1478" height="742" alt="Screenshot 2026-05-17 004432" src="https://github.com/user-attachments/assets/e7d05f13-a10e-472d-aa41-33ccf63967ea" />
 <img width="1523" height="713" alt="Screenshot 2026-05-17 004420" src="https://github.com/user-attachments/assets/3dda4155-9483-4984-8616-e327233e64b3" />
 
